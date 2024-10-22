@@ -19,4 +19,6 @@ git branch 分支名
 
 git checkout main
 
+git clone https://github.com/2125735516/2024_study.git
+
 
