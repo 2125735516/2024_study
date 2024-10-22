@@ -1,0 +1,12 @@
+cd git_dome
+工作区 
+暂存区
+本地库
+
+git add 
+
+git commit -m "git comend" git_dome.txt
+
+git push
+
+git pull
