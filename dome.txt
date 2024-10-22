@@ -21,4 +21,4 @@ git checkout main
 
 git clone https://github.com/2125735516/2024_study.git
 
-
+git git@github.com:2125735516/2024_study.git
