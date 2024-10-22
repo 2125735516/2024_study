@@ -10,3 +10,13 @@ git commit -m "git comend" git_dome.txt
 git push
 
 git pull
+
+分支
+
+git branch -v
+
+git branch 分支名
+
+git checkout main
+
+
